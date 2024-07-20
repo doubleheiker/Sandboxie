@@ -83,7 +83,7 @@ env:
 
 jobs:
   Build_x64:
-    runs-on: windows-latest
+    runs-on: windows-2019
     timeout-minutes: 45
 
     steps:
